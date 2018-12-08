@@ -2,7 +2,6 @@
 <!--- Talk to Discord Support Staff first if you are not certain this is a bug. -->
 
 <!--- This ProfitTrailer issue tracker is **ONLY** used for reporting bugs. -->
-NO NEW FEATURES! Use [PT Enahancements](https://github.com/taniman/profit-trailer-enhancements) for Feature Requests.
 
 <!--- Provide a general summary of the issue in the Title above -->
 
